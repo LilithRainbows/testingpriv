@@ -1,2 +1,2 @@
-document.body.innerHTML = '';
+document.documentElement.innerHTML = '';
 Probando
